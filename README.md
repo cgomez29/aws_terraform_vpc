@@ -1,5 +1,7 @@
 ## Terraform-AWS-VPC
 
+![vpc](./images/arquitectura.png)
+
 ### Usage 
 **Required file: terraform.tfvars**
 ```terraform
